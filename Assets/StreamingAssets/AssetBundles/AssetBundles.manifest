@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1790948228
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: enemy/enemynormal
+      Dependencies: {}
+    Info_1:
+      Name: prefabs/castle
+      Dependencies: {}
+    Info_2:
+      Name: prefabs/bullet
+      Dependencies: {}
+    Info_3:
+      Name: prefabs/ui/mainui
+      Dependencies: {}
+    Info_4:
+      Name: prefabs/player
+      Dependencies: {}
+    Info_5:
+      Name: prefabs/enemy
+      Dependencies: {}

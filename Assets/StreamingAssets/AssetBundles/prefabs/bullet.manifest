@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3564599435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77c142a143a556169d6458f088d582f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 01b1a83f0cef0837c0333e710ae75968
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b275e5f92732148048d7b77e264ac30e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/bullet.prefab
+Dependencies: []
